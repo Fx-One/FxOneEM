@@ -2,7 +2,7 @@
  * ByteArrayDemo.h
  *
  *  Created on: 2016年11月8日
- *      Author: tom
+ *  Author: tom
  */
 
 #ifndef BYTEARRAYDEMO_H_

@@ -24,11 +24,10 @@ void MyThread::run() {
 	blinkLed->powerUp();
 	while (1)
 	{
-		debug() << name;
 		blinkLed->turnOn();
-		sleep(5);
+		sleep(500);
 		blinkLed->turnOff();
-		sleep(5);
+		sleep(500);
 
 	}
 }
