@@ -19,19 +19,23 @@
 #include <ByteArray>
 #include <Debug>
 #include <Thread/Thread.h>
+#include <Application>
+
+#include "Example/ByteArray/ByteArrayDemo.h"
+#include "Example/Thread/ThreadDemo.h"
+
+ThreadDemo threadDemo;
 
 using namespace Fx;
-int
-main(int argc, char* argv[])
+int main(int argc, char* argv[])
 {
-	int16_t num = 0x7F;
-	ByteArray array;
-	array.append("ABC");
-	debug() << array.toHex().toStdString();
+	ByteArrayDemo baDemo;
+	baDemo.exec();
 
-	while(1) {
-		debug() << "OK";
-	}
+	threadDemo.start();
+
+	Application app;
+	app.exec();
 }
 
 #pragma GCC diagnostic pop

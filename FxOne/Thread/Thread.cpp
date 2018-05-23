@@ -14,7 +14,7 @@ void ThreadTask(void * pvParameters) {
 }
 
 Thread::Thread() {
-	stackSize = 100;
+	stackSize = 400;
 	taskHandle = NULL;
 }
 
