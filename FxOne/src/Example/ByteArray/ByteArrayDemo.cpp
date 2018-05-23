@@ -2,7 +2,7 @@
  * ByteArrayDemo.cpp
  *
  *  Created on: 2016年11月8日
- *      Author: tom
+ *  Author: tom
  */
 
 #include "ByteArrayDemo.h"
