@@ -1,8 +1,8 @@
 /*
  * MutexLocker.cpp
  *
- *  Created on: 2016年8月9日
- *      Author: tom
+ * Created on: 2016年8月9日
+ * Author: tom
  */
 
 #include "Thread/MutexLocker.h"

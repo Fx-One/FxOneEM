@@ -1,8 +1,8 @@
 /*
  * MutexLocker.h
  *
- *  Created on: 2016年8月9日
- *      Author: tom
+ * Created on: 2016年8月9日
+ * Author: tom
  */
 
 #ifndef THREAD_MUTEXLOCKER_H_

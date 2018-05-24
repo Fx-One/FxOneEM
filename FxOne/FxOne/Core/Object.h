@@ -1,8 +1,8 @@
 /*
  * Object.h
  *
- *  Created on: 2017年3月12日
- *      Author: tom
+ * Created on: 2017年3月12日
+ * Author: tom
  */
 
 #ifndef CORE_OBJECT_H_

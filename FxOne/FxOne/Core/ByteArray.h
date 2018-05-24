@@ -1,8 +1,8 @@
 /*
  * ByteArray.h
  *
- *  Created on: 2016年8月19日
- *      Author: tom
+ * Created on: 2016年8月19日
+ * Author: tom
  */
 
 #ifndef CORE_BYTEARRAY_H_

@@ -1,8 +1,8 @@
 /*
  * Time.h
  *
- *  Created on: 2017年5月27日
- *      Author: tom
+ * Created on: 2017年5月27日
+ * Author: tom
  */
 
 #ifndef CORE_TIME_H_
