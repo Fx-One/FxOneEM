@@ -1,8 +1,8 @@
 /*
  * String.cpp
  *
- *  Created on: 2017年5月8日
- *      Author: tom
+ * Created on: 2017年5月8日
+ * Author: tom
  */
 
 #include <Core/String.h>

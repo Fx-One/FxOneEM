@@ -1,8 +1,8 @@
 /*
  * Debug.h
  *
- *  Created on: 2016年11月21日
- *      Author: tom
+ * Created on: 2016年11月21日
+ * Author: tom
  */
 
 #ifndef CORE_DEBUG_H_

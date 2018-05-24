@@ -1,8 +1,8 @@
 /*
  * ByteArray.cpp
  *
- *  Created on: 2016年8月19日
- *      Author: tom
+ * Created on: 2016年8月19日
+ * Author: tom
  */
 
 #include "Core/ByteArray.h"

@@ -1,8 +1,8 @@
 /*
  * String.h
  *
- *  Created on: 2017年5月8日
- *      Author: tom
+ * Created on: 2017年5月8日
+ * Author: tom
  */
 
 #ifndef CORE_STRING_H_

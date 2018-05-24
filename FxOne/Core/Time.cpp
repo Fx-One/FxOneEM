@@ -1,8 +1,8 @@
 /*
  * Time.cpp
  *
- *  Created on: 2017年5月27日
- *      Author: tom
+ * Created on: 2017年5月27日
+ * Author: tom
  */
 
 #include <Core/Time.h>

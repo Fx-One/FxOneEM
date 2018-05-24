@@ -1,8 +1,8 @@
 /*
  * Thread.h
  *
- *  Created on: 2016年8月8日
- *      Author: tom
+ * Created on: 2016年8月8日
+ * Author: tom
  */
 
 #ifndef THREAD_THREAD_H_

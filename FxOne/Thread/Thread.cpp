@@ -1,8 +1,8 @@
 /*
  * Thread.cpp
  *
- *  Created on: 2016年8月8日
- *      Author: tom
+ * Created on: 2016年8月8日
+ * Author: tom
  */
 
 #include "Thread/Thread.h"

@@ -1,8 +1,8 @@
 /*
  * Object.cpp
  *
- *  Created on: 2017年3月12日
- *      Author: tom
+ * Created on: 2017年3月12日
+ * Author: tom
  */
 
 #include "Object.h"

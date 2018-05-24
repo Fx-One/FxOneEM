@@ -1,8 +1,8 @@
 /*
  * Application.h
  *
- *  Created on: 2016年8月27日
- *      Author: tom
+ * Created on: 2016年8月27日
+ * Author: tom
  */
 
 #ifndef CORE_APPLICATION_H_
