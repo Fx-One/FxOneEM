@@ -7,7 +7,7 @@
 #define PIN_MASK(_N)    (1 << (_N))
 #define RCC_MASKx(_N)   (RCC_APB2Periph_GPIOA << (_N))
 
-#include "I2CDevice.h"
+#include "../I2CDevice.h"
 #include "Core/Debug.h"
 #include <string>
 
