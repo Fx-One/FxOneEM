@@ -1,4 +1,4 @@
-# FxOneEM
+# FxOne
 FxOne是基于FreeRTOS开发的嵌入式开发框架
 
 # 说明
