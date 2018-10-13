@@ -1,5 +1,5 @@
 # FxOne
-FxOne是基于FreeRTOS开发的嵌入式开发框架
+FxOne是基于FreeRTOS开发的嵌入式开发框架，主要开发语言为: C++ 。
 
 # 支持硬件说明
 FxOne的开发目标是希望能够支持大部分常用的MCU。
